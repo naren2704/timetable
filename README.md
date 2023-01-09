@@ -105,7 +105,8 @@ Execute the program
 
 # OUPUT
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/118706984/211243562-e863e47f-9640-437b-a3a2-5683deef0ac7.png)
+
 
 
 
